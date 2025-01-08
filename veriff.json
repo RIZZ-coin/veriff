@@ -4,8 +4,8 @@
     "symbol": "RIZZ",
     "name": "RIZZ coin",
     "decimals": 9,
-    "logoURI": "https://github.com/RIZZ-coin/logo-token/blob/main/photo_2025-01-06%2012.51.29.png?raw=true",
-    "tags": ["rizz coin", "rizz"],
+    "logoURI": "https://raw.githubusercontent.com/RIZZ-coin/logo-token/main/photo_2025-01-06%2012.51.29.png",
+    "tags": ["token", "spl"],
     "extensions": {
       "website": "https://rizz-coin.com"
     }
